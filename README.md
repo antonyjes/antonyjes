@@ -7,7 +7,7 @@ Web Developer, Software Engineer and Database Administrator
 * 🌍  I'm based in Lima, Perú
 * ✉️  You can contact me at [jesus.antony11@gmail.com](mailto:jesus.antony11@gmail.com)
 * 🧠  I'm learning the MERN Stack, Machine Learning, Data Science
-* 🤝  I'm open to collaborating on Machine Learning Projects
+* 🤝  I'm open to collaborating on Web Projects
 
 ### Skills
 
